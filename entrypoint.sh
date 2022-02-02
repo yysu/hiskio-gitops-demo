@@ -13,7 +13,7 @@ IP address list are ${PREFIX}_${IPS}
 Datetime is $(date)
 Hello
 
-Live-Demo
+Live-Demo-123
 EOF
 
 #Generate a new index.html under /var/www/html
